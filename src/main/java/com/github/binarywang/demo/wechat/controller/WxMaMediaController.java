@@ -29,7 +29,7 @@ import java.util.List;
  * @author <a href="https://github.com/binarywang">Binary Wang</a>
  */
 @RestController
-@RequestMapping("/wechat/media")
+@RequestMapping("/miniapp/media")
 public class WxMaMediaController {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 

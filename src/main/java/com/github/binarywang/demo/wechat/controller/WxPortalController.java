@@ -16,7 +16,7 @@ import java.util.Objects;
  * @author <a href="https://github.com/binarywang">Binary Wang</a>
  */
 @RestController
-@RequestMapping("/wechat/portal")
+@RequestMapping("/miniapp/portal")
 public class WxPortalController {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 

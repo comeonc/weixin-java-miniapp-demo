@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequest;
  * @author <a href="https://github.com/binarywang">Binary Wang</a>
  */
 @RestController
-@RequestMapping("/wechat/user")
+@RequestMapping("/miniapp/user")
 public class WxMaUserController {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
